@@ -34,9 +34,7 @@
 32. How do you check the size of a directory in Linux? Provide the command and its output.
 33. Describe the purpose of the "lsof" command in Linux. How would you use it to list open files and processes?
 34. Explain the concept of inter-process communication (IPC) in Linux. Name some IPC mechanisms.
-35
-
-. How do you check the memory usage of a process in Linux? Provide the command and its output.
+35. How do you check the memory usage of a process in Linux? Provide the command and its output.
 36. What is the purpose of the "kill" command in Linux? How would you use it to terminate a process?
 37. Describe the purpose of the "netstat" command in Linux. How would you use it to display network statistics?
 38. How do you check the current disk usage of a Linux system? Provide the command and its output.
@@ -68,9 +66,7 @@
 64. Describe the purpose of the "xargs" command in Linux. How would you use it to process command-line arguments?
 65. How do you check the installed packages and their versions on a Linux system? Provide the command and its output.
 66. Explain the concept of file system permissions in Linux. How do you set the permissions for a file or directory?
-67. What is the purpose of the "ps" command in Linux
-
-? How would you use it to display process information?
+67. What is the purpose of the "ps" command in Linux? How would you use it to display process information?
 68. Describe the purpose of the "nc" command in Linux. How would you use it for network troubleshooting?
 69. How do you check the system logs in Linux? Provide the command and its output.
 70. Explain the concept of swap space in Linux. When and why would you use it?
@@ -104,3 +100,4 @@
 98. Explain the concept of kernel tuning in Linux. What kernel parameters can you adjust and why?
 99. What is the purpose of the "diff" command in Linux? Provide an example of how you would use it to compare two files.
 100. How do you check the system's swap space
+
