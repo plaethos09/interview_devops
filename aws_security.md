@@ -76,9 +76,7 @@
 72. What is the AWS Secrets Manager automatic secret rotation for Amazon DocumentDB, and how does it enhance database security?
 73. How do you use AWS Secrets Manager to securely store and manage API keys and tokens?
 74. Explain the concept of AWS Security Hub custom insights and how they help tailor security monitoring.
-75. What
-
- is AWS Systems Manager Distributor, and how does it simplify software package distribution and patch management?
+75. What is AWS Systems Manager Distributor, and how does it simplify software package distribution and patch management?
 76. How do you configure AWS Control Tower guardrails to enforce specific security and compliance policies?
 77. What is AWS IAM Access Analyzer archive, and how does it help retain historical access analysis data?
 78. Explain the purpose of AWS Security Hub's compliance standards and how they aid in regulatory compliance.
