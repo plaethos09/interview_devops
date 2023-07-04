@@ -46,9 +46,7 @@
 44. How can you enable cross-region VPC peering in AWS?
 45. Explain the difference between a network load balancer and an application load balancer.
 46. What is the purpose of a default route in a VPC's route table?
-47. How can you control access to AWS resources within a V
-
-PC using IAM?
+47. How can you control access to AWS resources within a VPC using IAM?
 48. Explain the concept of an internet-facing load balancer in AWS.
 49. What is the significance of a Default Security Group in AWS?
 50. How can you enable and configure VPC flow logs for enhanced monitoring?
