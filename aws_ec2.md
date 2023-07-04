@@ -49,9 +49,7 @@
 47. How can you connect to an EC2 instance using SSH?
 48. Explain the difference between the root volume and other EBS volumes.
 49. How can you transfer files to and from an EC2 instance?
-50. What is
-
- the difference between a dedicated and a default tenancy in EC2?
+50. What is the difference between a dedicated and a default tenancy in EC2?
 51. How can you monitor network traffic on an EC2 instance?
 52. Explain the concept of Elastic IP addresses in EC2.
 53. How can you enable and disable public IP addresses for EC2 instances?
