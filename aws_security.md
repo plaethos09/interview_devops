@@ -1,5 +1,3 @@
-
-
 1. What are the different authentication and authorization mechanisms available in AWS?
 2. Explain the concept of IAM in AWS and its role in managing access to AWS resources.
 3. How do you secure access to your AWS resources using IAM roles and policies?
@@ -37,9 +35,7 @@
 35. What is the AWS Firewall Manager, and how does it help centrally manage AWS WAF rules across accounts?
 36. Explain the concept of AWS Security Hub's integrated partner solutions and how they enhance security monitoring and compliance.
 37. How do you configure AWS Config to automatically remediate non-compliant resource configurations?
-38. What is
-
- the AWS Secrets Manager rotation feature, and how does it help automate the rotation of credentials?
+38. What is the AWS Secrets Manager rotation feature, and how does it help automate the rotation of credentials?
 39. How do you use AWS Secrets Manager to store and rotate database credentials securely?
 40. Explain the concept of AWS KMS customer managed keys (CMKs) and how they are used for data encryption.
 41. What is the AWS Audit Manager, and how does it help automate and streamline the auditing process?
